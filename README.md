@@ -1,6 +1,7 @@
 # employee-manager-crud
 
-> A Vue.js project
+> A Vue.js CRUD application deployed to firebase 
+
 
 ## Build Setup
 
